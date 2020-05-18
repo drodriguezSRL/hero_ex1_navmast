@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/nano/git/ex1_navmast/ros_navmast/devel/setup.sh

@@ -1,0 +1,8 @@
+prefix=/home/nano/git/ex1_navmast/ros_navmast/install
+
+Name: dynamixel_settings
+Description: Description of dynamixel_settings
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/nano/git/ex1_navmast/ros_navmast/install/lib 
+Requires: 

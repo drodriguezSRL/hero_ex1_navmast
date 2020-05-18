@@ -1,0 +1,8 @@
+prefix=/home/nano/git/ex1_navmast/ros_navmast/devel
+
+Name: joy_control
+Description: Description of joy_control
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/nano/git/ex1_navmast/ros_navmast/devel/lib 
+Requires: 
